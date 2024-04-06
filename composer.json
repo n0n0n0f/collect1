@@ -1,6 +1,6 @@
 {
     "name": "n0n0n0f/collect1",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
           "Collect\\": "src/"
         },
         "files": [
-          "src/View.php"
+          "src/Session.php"
         ]
       }
      
